@@ -7,7 +7,7 @@ My Web:[ I don't have Web :< ] <br> <br> <br>
 
 Package design my self1:[https://www.nuget.org/packages/JsonFucker] (Json Fucker) <br>
 "Json Fucker, Write Code Better" (just for .net) <br><br>
-Package design my self2:[https://www.nuget.org/packages/JsonFucker] (Json Fucker) <br><br>
+Package design my self2:[https://www.nuget.org/packages/JsonFucker] (TextDB) <br><br>
 
 Skill: ~~Copy Ai's code~~ (X) C#(winform and asp.net) and ms sqlserver and android app design
 
